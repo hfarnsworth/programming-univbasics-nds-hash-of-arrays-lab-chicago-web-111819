@@ -12,6 +12,4 @@ def add_character(show, name)
   newArray = BASE_HOA
   
   newArray[show] << name
-  
-  newArray
 end
